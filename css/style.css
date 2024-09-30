@@ -1226,7 +1226,7 @@ body {
 }
 
 #fh5co-product-screenshots {
-  background-image: url('images/fondo2.png');
+  
   background-size: cover; /* Ajusta la imagen para cubrir todo el ancho */
   background-position: center; /* Centra la imagen */
   background-repeat: no-repeat; /* Evita que la imagen se repita */
